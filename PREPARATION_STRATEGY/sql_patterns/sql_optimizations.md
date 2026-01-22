@@ -1,4 +1,3 @@
-- **How do you perform an incremental load (CDC) using PySpark?**
 - **Explain how you would debug a SQL query that suddenly became 3× slower in production.**
   - **Interviewers push for:**
     1. **Query plan analysis**
