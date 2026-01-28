@@ -12,6 +12,6 @@
 
 • **ETL/ELT Concepts**: Incremental loads, CDC, SCD types, late-arriving dimensions, schema evolution, idempotency.
 
-• **Testing/Quality**: Data validation frameworks (e.g., Great Expectations or equivalent patterns), synthetic test data, boundary and regression tests.
+• **Testing/Quality**: Data validation frameworks (e.g., Great Expectations or equivalent patterns), synthetic test data, boundary & regression tests.
 
 • **CI/CD for data** (Git, branching, code reviews, deployments to Composer/Airflow, infra-as-code familiarity).
