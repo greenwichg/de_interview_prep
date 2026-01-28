@@ -10,7 +10,7 @@
 
 • **SQL**: Advanced SQL (window functions, CTEs, optimization via EXPLAIN/QUERY PLAN, data deduplication).
 
-• **Data Modeling**: Dimensional modeling (star/snowflake schemas), normalization/denormalization, fact and dimension tables, surrogate keys, and Kimball methodologies.
+• **Data Modeling**: Dimensional modeling (star/snowflake schemas), normalization/denormalization, fact and dimension tables.
 
 • **ETL/ELT Concepts**: Incremental loads, CDC, SCD types, late-arriving dimensions, schema evolution, idempotency.
 
