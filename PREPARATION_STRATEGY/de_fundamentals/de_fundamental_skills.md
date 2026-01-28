@@ -10,6 +10,8 @@
 
 • **SQL**: Advanced SQL (window functions, CTEs, optimization via EXPLAIN/QUERY PLAN, data deduplication).
 
+• **Data Modeling**: Dimensional modeling (star/snowflake schemas), normalization/denormalization, fact and dimension tables, surrogate keys, data vault, Kimball/Inmon methodologies.
+
 • **ETL/ELT Concepts**: Incremental loads, CDC, SCD types, late-arriving dimensions, schema evolution, idempotency.
 
 • **Testing/Quality**: Data validation frameworks (e.g., Great Expectations or equivalent patterns), synthetic test data, boundary and regression tests.
