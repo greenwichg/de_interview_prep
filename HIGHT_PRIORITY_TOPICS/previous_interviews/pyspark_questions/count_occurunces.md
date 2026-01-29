@@ -1,6 +1,6 @@
 # PySpark Implementation: Count Occurrences of 'a' in Words
 
-## User Query
+## User Query 
 **Name:** Sanath Erram Sai  
 
 **Query:** Could you please help me in implementing a PySpark for the below scenario?  
@@ -44,3 +44,5 @@ sc.stop()
 If you run this with the sample words, the output will be `Total occurrences of 'a': 6` (from "apple" (1), "banana" (3), "date" (1), "avocado" (2), minus others with 0).  
 
 If your input data is different (e.g., from a file or the provided PDF content), provide more details for adjustments!
+
+---
