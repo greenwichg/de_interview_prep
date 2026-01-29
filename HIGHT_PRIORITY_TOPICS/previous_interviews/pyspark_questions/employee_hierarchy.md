@@ -1,5 +1,3 @@
-Here’s the corrected markdown format:
-
 ## Employee Hierarchy Query
 
 ### SQL Query
